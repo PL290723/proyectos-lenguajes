@@ -1,0 +1,37 @@
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.nvim/
+
+# Compiled Source (C, C++, Go)
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.out
+build/
+
+# Java
+target/
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Node.js / JavaScript
+node_modules/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
